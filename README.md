@@ -1,9 +1,11 @@
 # Luke's build of st with Aqendo's edits - the simple (suckless) terminal
+The [suckless terminal (st)](https://st.suckless.org/) with some additional
+features that make it literally the best terminal emulator ever:
+
+
 ## Yet another?
 Yeah, I love my precious Ctrl+Shift+V and Ctrl+V shortcuts and SF Mono font. So not to lose that I set that into yet another config repo. Why not.
 
-The [suckless terminal (st)](https://st.suckless.org/) with some additional
-features that make it literally the best terminal emulator ever:
 
 ## Unique features (using dmenu)
 
